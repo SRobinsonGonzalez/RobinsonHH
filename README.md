@@ -6,7 +6,7 @@
 🌱 Currently, my next goal is to learn Python to expand my skills and explore new possibilities in the world of programming.<br>
 
 <h3>What I do?</h3>
-⚡ "I am currently working as a freelancer, consolidating my knowledge and expanding my skills by learning new technologies."<br>💬 Contact me
+⚡ "I am currently working as a freelancer, consolidating my knowledge and expanding my skills by learning new technologies."<br>
 
 ## 🌐 Socials:
 
@@ -38,6 +38,6 @@
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/RobinsonHH4?country.x=CO&locale.x=es_XC) 
 
-<h3>Contact me</h3>
+<h2>💬 Contact me</h2>
 
 e-mail: hh.robinson95@hotmail.com
