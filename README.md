@@ -25,7 +25,7 @@
 </ul>
 
 <h2>💬 Contact me</h2>
-e-mail: <p style="text-decoration: none">hh.robinson95@hotmail.com</p>
+<p style="text-decoration: none">hh.robinson95@hotmail.com</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SRobinsonGonzalez&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
