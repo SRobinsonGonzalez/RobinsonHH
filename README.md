@@ -18,11 +18,14 @@
 
 <h4>Additional</h4>
 <ul>
-  <li>GitHub</li>
+  <li>Git</li>
   <li>Sequelize.js</li>
   <li>Node.js</li>
   <li>Scrum</li>
 </ul>
+
+<h2>💬 Contact me</h2>
+e-mail: <p style="text-decoration: none">hh.robinson95@hotmail.com</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SRobinsonGonzalez&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
@@ -37,7 +40,3 @@
   ## 💰 You can help me by Donating
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/RobinsonHH4?country.x=CO&locale.x=es_XC) 
-
-<h2>💬 Contact me</h2>
-
-e-mail: hh.robinson95@hotmail.com
